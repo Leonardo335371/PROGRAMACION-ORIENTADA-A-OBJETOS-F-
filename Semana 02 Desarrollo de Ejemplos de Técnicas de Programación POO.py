@@ -140,5 +140,5 @@ if __name__ == "__main__":
     # Lista de empleados
     plantilla = [gerente, dev, diseñador]
 
-    # Ejecutar jornada laboral
+    # Ejecutar jornada laboral.
     jornada_laboral(plantilla)
