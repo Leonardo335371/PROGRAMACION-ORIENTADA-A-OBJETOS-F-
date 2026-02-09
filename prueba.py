@@ -1,1 +1,0 @@
-print("klk mi gente")
