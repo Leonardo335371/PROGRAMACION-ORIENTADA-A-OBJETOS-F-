@@ -1,0 +1,1 @@
+print("klk mi gente raaa")
